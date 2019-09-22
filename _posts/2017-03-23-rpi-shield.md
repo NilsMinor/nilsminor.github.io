@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Create your own raspberry pi shield
-subtitle: Getting started faster using my easy to use Altium template 
+title: Create your own raspberry pi 3 shield
+subtitle: Getting started faster using an Altium template 
 bigimg: /img/post-rpi/rpi.png
+image: /img/post-rpi/rpi.png
 tags: [raspberry-pi, Altium-Designer]
 ---
 
@@ -15,3 +16,7 @@ However I can not ensure the correctness of the design, since it was not produce
 You can download it from [here](https://github.com/NilsMinor/Raspberry-Pi-3-Altium-Template).
 
 Post edit (04.03.2018) I built a second template. It is a combination of an [Arduino and raspberry pi shield](https://github.com/NilsMinor/Raspberry-Pi-3-Arduino-Altium-Shield).
+
+![img1](/img/post-rpi/rpi1.png)
+
+![img1](/img/post-rpi/rpi2.png)
