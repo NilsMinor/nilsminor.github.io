@@ -15,7 +15,7 @@ You can find the project on my [GitHub page](https://github.com/NilsMinor/Raspbe
 
 The shield supports Arduino and Raspberry Pi 3 mounting holes.
 
-!![img1](img/post-rpi-arduino/dim.png)
+![img1](img/post-rpi-arduino/dim.png)
 
 #### Main schematic sheet as starting point for future projects
-!![img2](img/post-rpi-arduino/sch.png)
+![img2](img/post-rpi-arduino/sch.png)
