@@ -4,7 +4,7 @@ title: Create your own raspberry pi 3 shield
 subtitle: Getting started faster using an Altium template 
 bigimg: /img/post-rpi/rpi.png
 image: /img/post-rpi/rpi.png
-tags: [raspberry-pi, Altium-Designer]
+tags: [raspberry-pi, altium-designer]
 ---
 
 This Project should simplify the design process of modules for raspberry pi 2 and 3, model B. 
