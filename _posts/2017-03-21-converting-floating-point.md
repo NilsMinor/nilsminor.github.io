@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Convert a floating-point number to register value
-bigimg: img/post-convert-floating/float-table.png
+bigimg: img/post-convert-floating/fraction-preview.png
 layout: post
 tags: [Qt, C++]
 ---
