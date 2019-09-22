@@ -16,10 +16,11 @@ However, Altium does not provide this scaling functionality that's why I wanted 
 
 ## Step 1
 
-![img1](/img/post-altium-polygon/poly0.png)
 * Create the pcb border/shape using a mechanical layer or keep-out layer. For explanation purpose I created an weird example PCB shape.
 * Select the board shape (*), Mine was on mechanical layer 1. 
 To create a board shape in Altium press [Design/Board Shape/Define from selected objects] while selecting the objects.
+
+![img1](/img/post-altium-polygon/poly0.png)
 
 ![img2](/img/post-altium-polygon/poly1.png)
 
@@ -44,9 +45,9 @@ Thicker lines (3mm, 4mm …) will create a smaller polygon inside this shape.
  
 ![img5](/img/post-altium-polygon/poly4.png)
  
- ## Step 5
+## Step 5
  
- * Select the thick line (*) as well as the outer version of the thin lines (*) an delete them. 
+ * Select the thick line ( * ) as well as the outer version of the thin lines (*) an delete them. 
  To create the scaled polygon only the inner lines are needed.
 
 ![img6](/img/post-altium-polygon/poly5.png)
@@ -57,9 +58,10 @@ Thicker lines (3mm, 4mm …) will create a smaller polygon inside this shape.
  
 ![img7](/img/post-altium-polygon/poly6.png)
  
- ## Step 7
+## Step 7
  Copy this polygon back to the pcb board. You can see that it is a scaled version of the board shape.
  Resize it by using the same process as explained while changing the line width.
  
 ![img8](/img/post-altium-polygon/poly7.png)
+
 ![img9](/img/post-altium-polygon/poly8.png)
