@@ -3,7 +3,8 @@ layout: post
 title: Create your own raspberry pi 3 shield
 subtitle: Getting started faster using an Altium template 
 bigimg: /img/post-rpi/rpi.png
-image: /img/post-rpi/rpi.png
+bigimg: /img/post-rpi/rpi-preview.png
+layout: post
 tags: [raspberry-pi, altium-designer]
 ---
 
