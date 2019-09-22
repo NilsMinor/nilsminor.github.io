@@ -20,8 +20,6 @@ However, Altium does not provide this scaling functionality that's why I wanted 
 * Select the board shape (*), Mine was on mechanical layer 1. 
 To create a board shape in Altium press [Design/Board Shape/Define from selected objects] while selecting the objects.
 
-![img1](/img/post-altium-polygon/poly0.png)
-
 ![img2](/img/post-altium-polygon/poly1.png)
 
 ## Step 2
