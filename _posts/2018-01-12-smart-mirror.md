@@ -15,6 +15,7 @@ kurze Zeit angeboten werden), deshalb habe ich zwei Fotos hochgeladen. Bei Ebay 
 passenden Controllern angeboten. Für den Smart-Mirror ist es prinzipiell egal welchen Monitor man verwendet.
 
 ![img2](/img/post-smart-mirror/img2.png)
+![img21](/img/post-smart-mirror/img2_1.png)
 
 Eigentlich habe ich Display + Controller nur gekauft, weil beides sehr günstig war. 
 Damit hatte ich sozusagen einen 15.6″ HDMi Monitor für nur 35€ gekauft. Als ich auf das 
