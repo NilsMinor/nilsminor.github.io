@@ -61,7 +61,7 @@ Dann passte das Ganze auch :D. Bevor die Bretter verleimt wurden (schliff ich si
 deutlichen Unterschied. Ich kann diesen Arbeitsschritt nur empfehlen, da sich das abgeschliffene 
 Eichenholz klasse anfühlt.
 
-![img3](/img/post-smart-mirror/img3.jpg)
+![img3](/img/post-smart-mirror/img3.jpg){:height="50%" width="50%"}
 
 Anschließend habe ich die Außenflächen mit “Möbel Regenerator” bestrichen. Dafür nimmt man einfach ein Tuch oder ein 
 Fetzen Stoff und reibt die Holzoberfläche mit etwas vom Regenerator ein. Der Regenerator sorgt dafür, dass die 
@@ -69,15 +69,15 @@ Oberfläche unempfindlicher gegen Schmutz und Flecken ist. So kann man die Oberf
 ohne das Wasserflecken auf dem Holz entstehen. Des Weiteren sorgt der Regenerator dafür, dass die Holzmaserung des 
 Eichenholzes besser zum Vorschein kommt und das Holz insgesamt etwas dunkler wird.
 
-![img4](/img/post-smart-mirror/img4.jpg)
+![img4](/img/post-smart-mirror/img4.jpg){:height="50%" width="50%"}
 
 Den Unterschied kann man auf den nachfolgenden Bildern  sehen, in der Mitte vor der Behandlung mit dem Regenerator 
 und rechts danach.
 
 
-![img5](/img/post-smart-mirror/img5.jpg)
-![img6](/img/post-smart-mirror/img6.jpg)
-![img7](/img/post-smart-mirror/img7.jpg)
+![img5](/img/post-smart-mirror/img5.jpg){:height="50%" width="50%"}
+![img6](/img/post-smart-mirror/img6.jpg){:height="50%" width="50%"}
+![img7](/img/post-smart-mirror/img7.jpg){:height="50%" width="50%"}
 
 Zur zusätzlichen Stabilisierung des Rahmens habe ich noch Winkel auf die Innenseite geschraubt. 
 Weil das Eichenholz extrem hart ist sollte man immer vorbohren.
@@ -95,9 +95,9 @@ ein USB Kabel gelötet. Bei USB ist rot 5V und weiß ist GND. Das USB Kabel habe
 vom PI gesteckt und festgeklebt. Der Vorteil davon ist, dass ich ein 5V Netzteil spare, der Nachteil dass der RPI 5.1V 
 benötigt und mir ein Unterspannung signalisiert, welche man im Spiegel sehen kann. Diese Warnung kann man jedoch ausstellen.
 
-![img8](/img/post-smart-mirror/img8.jpg)
-![img9](/img/post-smart-mirror/img9.jpg)
-![img10](/img/post-smart-mirror/img10.jpg)
+![img8](/img/post-smart-mirror/img8.jpg){:height="50%" width="50%"}
+![img9](/img/post-smart-mirror/img9.jpg){:height="50%" width="50%"}
+![img10](/img/post-smart-mirror/img10.jpg){:height="50%" width="50%"}
 
 Die Bilder zeigen die Anordnung der Elektronik im Inneren des Spiegels. Das Netzteil das ich “gebraucht” bei Pollen 
 gekauft hatte war interessanter Weise ein ausrangiertes Netzteil von einem SKY Receiver. Das Netzteil musste ich noch 
@@ -110,7 +110,7 @@ Abzweigdose über dem Spiegel. In dieser wurden die Schalter im Flur verdrahtet 
 Spiegel einfach an die Zuleitung anschließen :). Für das Kabel hatte ich noch ein Loch auf die Oberseite des Spiegels 
 gebohrt und das Kabel durchgezogen.
 
-![img11](/img/post-smart-mirror/img11.jpg)
+![img11](/img/post-smart-mirror/img11.jpg){:height="50%" width="50%"}
 
 # Update vom 11.03.2018
 Leider war die Idee, das Spiegelglas mit doppelseitigem Klebeband zu befestigen, nicht die beste. Das Spiegelglas 
@@ -128,7 +128,7 @@ auf (**GlancrAP**). Mit diesem verbindet man sich und bekommt das Passwort auf d
 Im Browser öffnet man **http://glancr.conf/** und nimmt dort alle Einstellungen wie Name, Stadt, Emailadresse 
 und Zugang zum Heimnetzwerk/WLAN vor.  Das wars im Grunde auch schon. Mirr.OS sendet eine Email wenn alles geklappt hat.
 
-![img12](/img/post-smart-mirror/img12.png)
+![img12](/img/post-smart-mirror/img12.png){:height="50%" width="50%"}
 
 Das coole an mirr.OS ist die einfache Konfiguration über den Browser. Dafür gibt man nur die IP/config 
 (z.B. **http://192.168.2.106/config/**) im Browser ein und kann mirr.OS konfigurieren. Die Aufteilung der Module kann 
@@ -153,7 +153,7 @@ sich Zeit genommen haben das System extrem anwenderfreundlich zu gestalten.
 # Anpassen des Raspberry Pi
 ## Unterspannungsanzeige ausschalten
 
-![img13](/img/post-smart-mirror/img13.jpg)
+![img13](/img/post-smart-mirror/img13.jpg){:height="50%" width="50%"}
 
 Was ich noch störend fand war das “Undervoltage” Zeichen in Form eines kleinen Blitzes, welchen der PI auf dem 
 Display anzeigte. Da ich kein PI Netzteil mit 5.1V verwende, sondern wie vorher beschrieben die 5V vom HDMI-Converter 
