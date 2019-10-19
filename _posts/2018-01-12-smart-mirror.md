@@ -148,3 +148,50 @@ Generell finde ich mirr.OS durchdacht und leicht zu bedienen. Zu jedem Modul gib
 Konfiguration im Browser findet man Links in den Modulen, die einen direkt dahin bringen wo man hin muss. Zum Beispiel 
 auf die OpenWeather Seite um sich den Api-Key zu besorgen. Das macht Spaß und man merkt, dass die Jungs von mirr.OS 
 sich Zeit genommen haben das System extrem anwenderfreundlich zu gestalten.
+
+# Anpassen des Raspberry Pi
+## Unterspannungsanzeige ausschalten
+
+![img13](/img/post-smart-mirror/img13.jpg)
+
+Was ich noch störend fand war das “Undervoltage” Zeichen in Form eines kleinen Blitzes, welchen der PI auf dem 
+Display anzeigte. Da ich kein PI Netzteil mit 5.1V verwende, sondern wie vorher beschrieben die 5V vom HDMI-Converter 
+Board abgreife, meckert der PI und meint er würde eine zu geringe Spannung bekommen. Zum abstellen des Blitzen bin ich 
+wie folgt vorgegangen.
+
+Anmelden per ssh über das Terminal auf meinem Macbook:
+```
+ssh pi@192.168.0.106
+Passwort: glancr!2017
+```
+
+Auf dem Pi muss man die config.txt anpassen und folgende Zeile einfügen:
+```
+sudo nano /boot/config.txt
+```
+Folgende Zeile am Ende der Datei ergänzen. Danach speichern und neu starten.
+```
+avoid_warnings=1
+```
+
+HDMI Monitor zeitgesteuert an/aus schalten
+
+Da wir wochentags arbeiten sind, soll der Raspberry Pi und dementsprechend auch der HDMI-Monitor ausgeschaltet werden. 
+Dafür eignen sich cronjobs. Der [Cron-Daemon](https://de.wikipedia.org/wiki/Cron) ist ein Dienst, der automatisch Skripte und Programme zu vorgegebenen 
+Zeiten starten kann.
+
+Wie oben beschrieben greift man wieder per ssh auf den PI zu. Um die Root Cron-Tabelle zu öffnen gibt man 
+folgenden Befehl ein:
+```
+sudo crontab -e
+```
+
+Meine Einstellung sieht vor, dass von Montag bis Freitag (1-5) jeweils um 10:00 Uhr der HDMI Ausgang des PIs 
+ausgeschaltet und um 16:00 wieder eingeschaltet wird. Um den Cronjob zu editieren muss man nur die beiden 
+nachfolgenden Zeilen einfügen.
+```
+# Turn off hdmi monitor from monday to friday at 10:00 o'clock
+0 10 * * 1-5 tvservice --off
+# Turn hdmi monitor on from monday to friday at 16:00 o'clock
+0 16 * * 1-5 tvservice -p
+```
