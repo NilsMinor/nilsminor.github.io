@@ -89,14 +89,12 @@ Da es in der Zwischenzeit angefangen hatte zu schneien und es mit -3°C ziemlich
 wechselten wir den Ort von “vor der Garage” zu “in der Garage” 🙂 und montierten die Schubladenauszüge. Ich hatte 
 vorher geschaut, ob es welche im Baumarkt gibt habe mich aber wegen dem unschlagbaren Preis für diese hier entschieden.
 
-![img8](/img/post-desk/img8.jpg){:height="50%" width="50%"}
-
+![img8](/img/post-desk/img8.jpg){:height="50%" width="50%"}![img9](/img/post-desk/img9.jpg){:height="50%" width="50%"}
 
 Das Einbauen der Rollauszüge hatte wesentlich mehr Zeit in Anspruch genommen als erwartet. Die Rollauszüge wurden 
 auf der Innenseite der Paletten befestigt. Mit Hilfe eines Abstandhalters (siehe linkes Bild) wurden die Auszüge in 
 der richtigen Höhe montiert.
 
-![img9](/img/post-desk/img9.jpg){:height="50%" width="50%"}
 
 Die Klötze, an denen die Auszüge festgeschraubt wurden waren nicht perfekt in einer Linie . Deshalb mussten wir mit 
 Hilfe von Muttern (bis 0,8 cm) und Unterleg-Scheiben die Schienen ausgleichen. Wichtig ist der gleiche Abstand zwischen 
@@ -146,7 +144,7 @@ Einbau noch etwas abgeschliffen um perfekt zu passen. Vor allem überschüssiger
 
 ![img21](/img/post-desk/img21.jpg){:height="50%" width="50%"}![img22](/img/post-desk/img22.jpg){:height="50%" width="50%"}
 
-![img23](/img/post-desk/img23.jpg){:height="50%" width="50%"} ![img24](/img/post-desk/img24.jpg){:height="50%" width="50%"}
+![img23](/img/post-desk/img23.jpg){:height="50%" width="50%"}![img24](/img/post-desk/img24.jpg){:height="50%" width="50%"}
 
 ![img25](/img/post-desk/img25.jpg){:height="50%" width="50%"}
 
