@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Schreibtisch aus Paletten
-bigimg: /img/post-rpi/img31.jpg
-image: /img/post-rpi/img31_preview.jpeg
+bigimg: /img/post-desk/img31.jpg
+image: /img/post-desk/img31_preview.jpeg
 layout: post
 tags: [home, do-it-yourself]
 ---
@@ -51,15 +51,14 @@ vier Schubladen. Eine erste Skizze ist auf dem nachfolgenden Foto zu sehen und d
 Es sollte aber jedem klar sein, dass sich beim Bauen die genauen Werte ergeben, da es sich um Paletten handelt und 
 ich kein Schreiner bin. 😀
 
-![img1](/img/post-desk/img1.jpg){:height="50%" width="50%"}
+![img1](/img/post-desk/img1.jpg)
 
 Begonnen habe ich damit die Paletten zu sortieren, da sich die Paletten in der Qualität doch ziemlich unterscheiden. 
 Mein Glück war es, dass ich überwiegend neue Paletten hatte.  Es macht auch nichts, dass die Bretter nicht alle gleich 
 hell sind bzw. die gleiche Qualität haben. Das macht denke ich auch den Charme eines selbstgebauten Schreibtisches 
 aus und wen es stört, der kann es später einfach wegschleifen.
 
-![img2](/img/post-desk/img2.jpg){:height="50%" width="50%"}
-![img3](/img/post-desk/img3.jpg){:height="50%" width="50%"}
+![img2](/img/post-desk/img2.jpg){:height="50%" width="50%"}![img3](/img/post-desk/img3.jpg){:height="50%" width="50%"}
 
 Nachdem ich die zukünftige Tischplatte “grob” zugeschnitten hatte habe ich zusammen mit meinem Vater begonnen den Tisch 
 zusammen zu bauen. Dabei hat es enorm geholfen, dass wir Dachlatten verwendet haben um den Tisch bzw. Teile des Tisches 
@@ -77,16 +76,14 @@ m nächsten Schritt wurde der Aufbau mit Querstreben (wieder Dachlatten) etwas g
 Justierung des Tisches erfolgt später durch ein Brett auf der Rückseite. Auch die Schubladenfronten wurden aus einer 
 Palette mittels Kreissäge rausgeschnitten.
 
-![img4](/img/post-desk/img4.jpg){:height="50%" width="50%"}
-![img5](/img/post-desk/img5.jpg){:height="50%" width="50%"}
+![img4](/img/post-desk/img4.jpg){:height="50%" width="50%"}![img5](/img/post-desk/img5.jpg){:height="50%" width="50%"}
 
 Da der Schreibtisch nun stabil stand konnte man wesentlich einfacher an ihm arbeiten. Wir haben die Nägel, 
 die bereits  in den Europaletten waren, mit Hammer und Durchschläger weiter ins Holz getrieben um im Anschluss 
 die Oberfläche abzuschleifen. Auch die Schubladenfronten wurden abgeschliffen. Den Unterschied zwischen abgeschliffen 
 und so wie sie im Rohzustand war sieht man auf dem nachfolgenden Bild.
 
-![img6](/img/post-desk/img6.jpg){:height="50%" width="50%"}
-![img7](/img/post-desk/img7.jpg){:height="50%" width="50%"}
+![img6](/img/post-desk/img6.jpg){:height="50%" width="50%"}![img7](/img/post-desk/img7.jpg){:height="50%" width="50%"}
 
 Da es in der Zwischenzeit angefangen hatte zu schneien und es mit -3°C ziemlich kalt wurde (zumindest für mich) 
 wechselten wir den Ort von “vor der Garage” zu “in der Garage” 🙂 und montierten die Schubladenauszüge. Ich hatte 
@@ -120,12 +117,11 @@ Rückseite erspart man sich so eine störende Stütze unter dem Tisch.
 Danach wurde der Tisch nochmals abgeschliffen, bzw. die noch fehlenden Stellen. Um den Tisch zu schützen wurde ein 
 Holzöl aus dem Baumarkt aufgetragen.
 
-![img10](/img/post-desk/img10.jpg){:height="50%" width="50%"}
-![img11](/img/post-desk/img11.jpg){:height="50%" width="50%"}
-![img12](/img/post-desk/img12.jpg){:height="50%" width="50%"}
-![img13](/img/post-desk/img13.jpg){:height="50%" width="50%"}
-![img14](/img/post-desk/img14.jpg){:height="50%" width="50%"}
-![img15](/img/post-desk/img15.jpg){:height="50%" width="50%"}
+![img10](/img/post-desk/img10.jpg){:height="50%" width="50%"}![img11](/img/post-desk/img11.jpg){:height="50%" width="50%"}
+
+![img12](/img/post-desk/img12.jpg){:height="50%" width="50%"}![img13](/img/post-desk/img13.jpg){:height="50%" width="50%"}
+
+![img14](/img/post-desk/img14.jpg){:height="50%" width="50%"}![img15](/img/post-desk/img15.jpg){:height="50%" width="50%"}
 
 Anschließend widmeten wir uns dem Bau der Schubladen. Da jede Schublade eine andere Größe hatte, konnte man keine kaufen 
 und wenn, wäre es langweilig gewesen :D! Ich hatte vorher im Baumarkt drei 10 mm dicke Pappel-Holzplatten gekauft 
@@ -143,14 +139,15 @@ Dieser Vorgang wurde vier mal wiederholt. Das Ergebnis sieht man auf der Abbildu
 Einbau noch etwas abgeschliffen um perfekt zu passen. Vor allem überschüssiger Leim war störend.
 
 ![img16](/img/post-desk/img16.jpg){:height="50%" width="50%"}
-![img17](/img/post-desk/img17.jpg){:height="50%" width="50%"}
-![img18](/img/post-desk/img18.jpg){:height="50%" width="50%"}
-![img19](/img/post-desk/img19.jpg){:height="50%" width="50%"}
-![img20](/img/post-desk/img20.jpg){:height="50%" width="50%"}
-![img21](/img/post-desk/img21.jpg){:height="50%" width="50%"}
-![img22](/img/post-desk/img22.jpg){:height="50%" width="50%"}
-![img23](/img/post-desk/img23.jpg){:height="50%" width="50%"}
-![img24](/img/post-desk/img24.jpg){:height="50%" width="50%"}
+
+![img17](/img/post-desk/img17.jpg){:height="50%" width="50%"}![img18](/img/post-desk/img18.jpg){:height="50%" width="50%"}
+
+![img19](/img/post-desk/img19.jpg){:height="50%" width="50%"}![img20](/img/post-desk/img20.jpg){:height="50%" width="50%"}
+
+![img21](/img/post-desk/img21.jpg){:height="50%" width="50%"}![img22](/img/post-desk/img22.jpg){:height="50%" width="50%"}
+
+![img23](/img/post-desk/img23.jpg){:height="50%" width="50%"} ![img24](/img/post-desk/img24.jpg){:height="50%" width="50%"}
+
 ![img25](/img/post-desk/img25.jpg){:height="50%" width="50%"}
 
 ## Schritt 4 (Schubladen fertigstellen und einbauen)
@@ -166,12 +163,6 @@ Löcher in das Pappelholz gebohrt, um anschließend die Fronten mit etwas länge
 befestigen. Mit einer 40 mm Lochfräse haben wir Löcher mittig in die Schubladenfronten gebohrt. Diese dienen später 
 als Griffe. Die Löcher mussten anschließend noch innen abgeschliffen werden.
 
-![img26](/img/post-desk/img26.jpg){:height="50%" width="50%"}
-![img27](/img/post-desk/img27.jpg){:height="50%" width="50%"}
-![img28](/img/post-desk/img28.jpg){:height="50%" width="50%"}
-![img29](/img/post-desk/img29.jpg){:height="50%" width="50%"}
-![img30](/img/post-desk/img30.jpg){:height="50%" width="50%"}
-![img31](/img/post-desk/img31.jpg){:height="50%" width="50%"}
 
 
 ## Schritt 5 (Transport und Aufbau)
@@ -183,7 +174,17 @@ Länge von ca. 2,3 m ist der Schreibtisch sehr stabil. In der Wohnung haben wir 
 deshalb wurde der Tisch 5cm niedriger gebaut. Da er mir aber ohne Glasplatte super gefallen hat, haben wir den Tisch 
 mit den Dachlatten auf die Endhöhe von 72 cm gebracht.
 
+![img26](/img/post-desk/img26.jpg){:height="50%" width="50%"}![img27](/img/post-desk/img27.jpg){:height="50%" width="50%"}
+
+![img28](/img/post-desk/img28.jpg){:height="50%" width="50%"}![img29](/img/post-desk/img29.jpg){:height="50%" width="50%"}
+
+
 
 Weil die Rückplatte des Schreibtisches die Steckdosen und den Telefonanschluss dahinter verdeckte, wurden kurzerhand 
 70mm Löcher mit der Lochfräse in die Rückwand geschnitten. Auf der rechten Abbildung steht der Tisch das erste Mal, in 
 vorläufiger Ausführung an seinem neuen Platz :).
+
+
+![img30](/img/post-desk/img30.jpg){:height="50%" width="50%"} 
+
+![img31](/img/post-desk/img31.jpg)
