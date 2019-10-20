@@ -2,7 +2,7 @@
 layout: post
 title: Smart-Mirror mit dem Raspberry Pi
 bigimg: img/post-smart-mirror/img1.jpg
-image: img/post-smart-mirror/img1.jpg
+image : img/post-smart-mirror/img_preview1.jpeg
 layout: post
 tags: [raspberry-pi, smart-mirror, home]
 ---
