@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Schreibtisch aus Paletten
-bigimg: /img/post-rpi/rpi.png
-image: /img/post-rpi/rpi-preview.png
+bigimg: /img/post-rpi/img31.jpg
+image: /img/post-rpi/img31_preview.jpeg
 layout: post
-tags: [home]
+tags: [home, do-it-yourself]
 ---
 
 # Schreibtisch aus Euro-Paletten
